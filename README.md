@@ -1,1 +1,1 @@
-# rock-paper-scissors
+Javascript program implementing a simple grade-school classic game of "rock paper scissors".
